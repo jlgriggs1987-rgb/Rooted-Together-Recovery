@@ -1,0 +1,8 @@
+{
+  "name": "Rooted Together Recovery Portal",
+  "description": "A comprehensive management portal for sober living residents and house owners to track recovery progress, work schedules, and financial balances.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
